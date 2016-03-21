@@ -1,0 +1,7 @@
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\ConsoleApplication137\bin\Debug\ConsoleApplication137.exe.config
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\ConsoleApplication137\bin\Debug\People.xml
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\ConsoleApplication137\bin\Debug\ConsoleApplication137.exe
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\ConsoleApplication137\bin\Debug\ConsoleApplication137.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\ConsoleApplication137\obj\Debug\ConsoleApplication137.csprojResolveAssemblyReference.cache
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\ConsoleApplication137\obj\Debug\ConsoleApplication137.exe
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\ConsoleApplication137\obj\Debug\ConsoleApplication137.pdb

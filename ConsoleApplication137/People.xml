@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Root>
+  <People>
+    <Person>
+      <FirstName>Avrumi</FirstName>
+      <LastName>Friedman</LastName>
+      <Age>34</Age>
+      <Cars>
+        <Car car_make="Lamborghini" Model="Aventador" Year="2016" />
+      </Cars>
+    </Person>
+    <Person>
+      <FirstName>John</FirstName>
+      <LastName>Doe</LastName>
+      <Age>45</Age>
+      <Cars>
+        <Car car_make="Lamborghini" Model="Huracan" Year="2016" />
+      </Cars>
+    </Person>
+    <Person>
+      <FirstName>Michael</FirstName>
+      <LastName>Jordan</LastName>
+      <Age>55</Age>
+      <Cars>
+        <Car car_make="Bugatti" Model="Veyron" Year="2014" />
+      </Cars>
+    </Person>
+  </People>
+</Root>

@@ -1,0 +1,6 @@
+C:\Users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\TVItems.DAta\bin\Debug\TVItems.DAta.dll.config
+C:\Users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\TVItems.DAta\bin\Debug\TVItems.DAta.dll
+C:\Users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\TVItems.DAta\bin\Debug\TVItems.DAta.pdb
+C:\Users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\TVItems.DAta\obj\Debug\TVItems.DAta.csprojResolveAssemblyReference.cache
+C:\Users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\TVItems.DAta\obj\Debug\TVItems.DAta.dll
+C:\Users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\TVItems.DAta\obj\Debug\TVItems.DAta.pdb

@@ -1,0 +1,8 @@
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\ConsoleApplication1\bin\Debug\TVItems.DAta.dll
+C:\Users\alexfriedman\documents\visual studio 2013\Projects\ConsoleApplication137\ConsoleApplication1\bin\Debug\TVItems.DAta.pdb
